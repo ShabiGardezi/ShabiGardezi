@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ShabiGardezi">
-    <img src="https://komarev.com/ghpvc/?username=shabigardezi&label=Profile%20views&color=0e75b6&style=flat" alt="shabigardezi" />
+<!-- <!--     <img src="https://komarev.com/ghpvc/?username=shabigardezi&label=Profile%20views&color=0e75b6&style=flat" alt="shabigardezi" /> -->
   </a>
 </p>
 
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shabigardezi&show_icons=true&theme=radical" alt="Shabi's GitHub Stats" />
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+<div gap: 20px>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabigardezi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
