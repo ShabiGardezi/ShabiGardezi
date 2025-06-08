@@ -58,18 +58,19 @@
 </p>
 
 
-📈 GitHub Stats
+### 📈 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shabigardezi&show_icons=true&theme=radical" alt="Shabi's GitHub Stats" />
 </p>
 
-<div gap: 20px>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabigardezi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
-🔗 Featured Projects
+### 🔗 Featured Projects
 
 - [instED (Telemedicine)](https://www.insted.us/)
 - [A'men (Content Monitoring)](https://play.google.com/store/apps/details?id=com.uaemediacouncil.amen)
