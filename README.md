@@ -71,9 +71,8 @@
 ---
 
 ### 🔗 Featured Projects
-
-- [instED (Telemedicine)](https://www.insted.us/)
-- [A'men (Content Monitoring)](https://play.google.com/store/apps/details?id=com.uaemediacouncil.amen)
-- [Bremod (eCommerce)](https://play.google.com/store/apps/details?id=com.bremod)
-- [Mooner (Service Booking)](https://play.google.com/store/apps/details?id=com.app.mooner)
-- [Eeva (Life Management)](https://play.google.com/store/apps/details?id=com.eeva.ai)
+[instED (Telemedicine)](https://www.insted.us/)
+[A'men (Content Monitoring)](https://play.google.com/store/apps/details?id=com.uaemediacouncil.amen)
+[Bremod (eCommerce)](https://play.google.com/store/apps/details?id=com.bremod)
+[Mooner (Service Booking)](https://play.google.com/store/apps/details?id=com.app.mooner)
+[Eeva (Life Management)](https://play.google.com/store/apps/details?id=com.eeva.ai)
